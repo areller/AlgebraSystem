@@ -1,4 +1,4 @@
-## Old Project
+**Old Project**
 
 # AlgebraSystem
 First attempt at making a symbolic algebra system
@@ -9,4 +9,4 @@ The expression simplification proecess runs really slow.
 
 In the future i'll be working on a new version from scratch, faster, better and well documented.
 
-![](http://s14.postimg.org/u01s85nwx/Capture.png)
+![Screenshot](algsys.png)
